@@ -1,0 +1,236 @@
+*{
+    margin: 0px;
+    padding: 0px;
+    font-family: arial;
+}
+.container-fluid-top{
+    width: 100%;
+    height: 35px;
+    /* border: 1px solid black; */
+    background-color: #050505;
+}
+nav{
+    width: 1000px;
+    height: 35px;
+    /* border: 1px solid white; */
+    margin: auto;
+}
+nav ul{
+    list-style: none;
+    float: right;
+}
+nav ul li{
+    float: left;
+}
+nav ul li a{
+    display: block;
+    padding: 8px;
+    text-decoration: none;
+    color: #ffff;
+}
+nav ul li a:hover{
+    color: white;
+    background-color: turquoise;
+}
+.container{
+    width: 1000px;
+    height: 970px;
+    /* border: 1px solid black; */
+    margin: auto;
+}
+header{
+    width: 1000px;
+    height: 150px;
+    /* border: 1px solid black; */
+    margin: auto;
+}
+.sub-header{
+    width: 498px;
+    height: 115px;
+    /* border: 1px solid black; */
+    float: left;
+}
+.logo img{
+    padding: 18px 0px;
+
+}
+.investor-btn input{
+    color: #ffff;
+    background-color: #e8a352;
+    width: 188px;
+    height: 33px;
+    border-radius: 13px;
+    float: right;
+    font-size: 18px;
+    margin: 40px 0px;
+}
+.contact{
+    width: 1000px;
+    height: 33px;
+    /* border: 1px solid black; */
+    float: left;
+    background:linear-gradient(290deg, black, transparent);
+}
+.container-fluid-bottom{
+    width: 100%;
+    height: 395px;
+    /* border: 1px solid black; */
+    background-color: #2b2b2b;
+}
+main{
+    width: 1000px;
+    height: 405px;
+    /* border: 1px solid black; */
+}
+.sub-main{
+    float: left;
+}
+.site-info{
+    width: 608px;
+    height: 405px;
+    /* border: 1px solid black; */
+}
+.paragraph h1{
+    padding: 30px 0px;
+}
+.paragraph p{
+    padding-bottom: 35px;
+    color: #747474;
+}
+.paragraph span{
+    color: #e7891b;
+}
+.pics-box h1{
+    padding-bottom: 10px;
+}
+.form-section{
+    width: 388px;
+    height: 405px;
+    /* border: 1px solid black; */
+}
+.form{
+    width: 360px;
+    height: 375px;
+    /* border: 1px solid black; */
+    padding: 27px 0px 0px 27px;
+}
+.heading{
+    width: 360px;
+    height: 45px;
+    border-bottom: 1px solid #ffff;
+    background-color: #2e2e2e;
+}
+.heading h1{
+    color: #a37b35;
+    padding:13px 45px;
+}
+.heading span{
+    color: #928b7d;
+}
+.input-fields{
+    width: 360px;
+    height: 325px;
+    /* border: 1px solid black; */
+    background-color: #3e3e3e;
+}
+.input-fields input{
+    width: 325px;
+    height: 42px;
+    border: 2px solid #919090;
+    border-radius: 10px;
+    margin: 10px;
+    padding-left: 10px;
+}
+.input-fields button{
+    width: 335px;
+    height: 42px;
+    border: 2px solid #919090;
+    border-radius: 10px;
+    margin: 10px;
+    text-align: center;
+    background-color: #f6a84b;
+}
+.trip{
+    margin-top: 110px;
+    width: 1000px;
+    height: 25px;
+    /* border: 1px solid #919090; */
+    background-color: #050505;
+}
+.client{
+    width: 275px;
+    height: 25px;
+    /* border: 1px solid #919090; */
+    border-radius: 45%;
+    background-color: #ffffff;
+    margin: auto;
+}
+.client-pics{
+    width: 1000px;
+    height: 150px;
+    /* border: 1px solid black; */
+    margin: 60px 0px;
+}
+.client-pics img{
+    padding:0px 20px;
+}
+footer{
+    width: 1000px;
+    height: 140px;
+    /* border: 1px solid white; */
+    margin: auto;
+    color: #ffff;
+}
+.sub-footer1{
+    width: 298px;
+    height: 140px;
+    /* border: 1px solid white; */
+    float: left;
+}
+.sub-footer2{
+    width: 198px;
+    height: 140px;
+    /* border: 1px solid white; */
+    float: left;
+}
+.site-link-section ul{
+    list-style: none;
+}
+.site-link-section ul li a{
+    color: #e49e18;
+    text-decoration: none;
+}
+.sub-footer1 h4{
+    padding: 10px 0px;
+}
+.sub-footer1 p{
+    color: #acacac;
+}
+.sub-footer2 h4{
+    padding: 10px 0px;
+}
+.sub-footer1 p{
+    color: #acacac;
+}
+.investor-section p{
+    text-align: justify;
+}
+.investor-section span{
+    color: #e49e18;
+}
+.business-section p{
+    padding-left: 58px;
+}
+.business-section h4{
+    padding-left: 58px;
+}
+.contact-section p{
+    font-size: 12px;
+    padding-left: 50px;
+}
+.contact-section h4{
+    padding-left: 50px;
+}
+.contact-section span{
+    color: #e49e18;
+}
